@@ -1,7 +1,16 @@
-Class on nextjs.org for react fundamentals before the nextjs tutorial:
-https://nextjs.org/learn/react-foundations/
+[_TOC_]
 
-Takeaways
+# What Is It
+
+`react-foundations` is my follow-along code for the nextjs tutorial titled, coindicentally, `react-foundations`
+
+check it out:
+https://nextjs.org/learn/react-foundations
+
+the `react-foundations` tutorial is meant to precede the `dashboard-app` tutorial proper, which is here for reference:
+https://nextjs.org/learn/dashboard-app
+
+# Takeaways
 
 1. `Imperative` is step-by-step instructions, and `Declarative` is giving end result without concern for steps. ("knead dough, add ingredients, put in oven" versus "pepperoni pizza please")
 1. React is a declarative UI library.
@@ -25,6 +34,7 @@ Takeaways
 
 # Some MS Code Extensions
 
+Some MS Code extensions recommended in this decent Medium article:
 https://medium.com/@fariqmh95/10-extensions-in-vs-code-that-you-must-install-for-react-71a7bfa7adde
 
 1. ESLint: This extension integrates ESLint, a popular JavaScript linter, into VS Code. It helps you maintain a consistent coding style and catch common mistakes.
