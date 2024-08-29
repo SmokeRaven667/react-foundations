@@ -1,6 +1,4 @@
-[_TOC_]
-
-# What Is It
+# What Is This?
 
 `react-foundations` is my follow-along code for the nextjs tutorial titled, coindicentally, `react-foundations`
 
